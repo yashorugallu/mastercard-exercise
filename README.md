@@ -13,8 +13,6 @@ LongestWordHolder
 
 Return a copy of the list to ensure idempotency
 
-README
-
 Usage:
 
 LongestWordHolder longestWordHolder = LongestWord.findLongestWord(“A quick fox jumps over the lazy dog”);
